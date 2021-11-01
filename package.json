@@ -1,0 +1,18 @@
+{
+  "name": "holythighblebot",
+  "version": "7.0.0",
+  "description": "",
+  "main": "src",
+  "scripts": {
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+
+  },
+  "author": "IsaiahIsHere",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.3.1",
+    "esm": "^3.2.25"
+  }
+}
